@@ -1,7 +1,7 @@
 # Kuaipan Python Manager
 
 TODO: a project to use python to manage kuaipan files
-
+这是一个针对快盘的PYTHON 管理工具. 
 
 ## Usage
 
